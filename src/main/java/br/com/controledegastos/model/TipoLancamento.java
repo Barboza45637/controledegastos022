@@ -1,4 +1,4 @@
-package br.com.controledegastos02.model;
+package br.com.controledegastos.model;
 
 public enum TipoLancamento {
     RECEITA,
